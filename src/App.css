@@ -40,7 +40,6 @@
   letter-spacing: -0.09em;
   line-height: 0.72;
   -webkit-text-fill-color: var(--color-accent);
-  -webkit-text-stroke: clamp(1.25px, 0.2vw, 2.5px) #111318;
 }
 
 .title-copy {
