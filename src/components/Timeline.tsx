@@ -11,7 +11,10 @@ import './Timeline.css'
 const MIN_ZOOM = 1
 const MAX_ZOOM = 8
 const ZOOM_STEP = 1.5
-const TICK_COUNT = 40
+const START_YEAR = 1776
+const END_YEAR = new Date().getFullYear()
+const YEAR_SPAN = END_YEAR - START_YEAR
+const YEAR_INTERVALS = [1, 2, 5, 10, 20, 25, 50, 100]
 
 type DragState = {
   pointerId: number
@@ -38,10 +41,19 @@ export function Timeline() {
   const drag = useRef<DragState | null>(null)
   const pinch = useRef<PinchState | null>(null)
 
-  const ticks = useMemo(
-    () => Array.from({ length: TICK_COUNT + 1 }, (_, index) => index),
-    [],
-  )
+  const visibleYears = YEAR_SPAN / zoom
+  const yearInterval =
+    YEAR_INTERVALS.find((interval) => interval >= visibleYears / 7) ?? 100
+  const yearMarkers = useMemo(() => {
+    const firstYear = Math.ceil(START_YEAR / yearInterval) * yearInterval
+    const years: number[] = []
+
+    for (let year = firstYear; year < END_YEAR; year += yearInterval) {
+      if (year > START_YEAR) years.push(year)
+    }
+
+    return years
+  }, [yearInterval])
 
   const maxViewStart = (nextZoom = zoom) => 1 - 1 / nextZoom
 
@@ -208,9 +220,9 @@ export function Timeline() {
             className="zoom-level"
             onClick={resetView}
             disabled={zoom <= MIN_ZOOM}
-            aria-label={`Reset zoom. Current zoom ${Math.round(zoom * 100)} percent`}
+            aria-label={`Reset timeline. Currently showing ${Math.ceil(visibleYears)} years`}
           >
-            {Math.round(zoom * 100)}%
+            {Math.ceil(visibleYears)} years
           </button>
           <button
             type="button"
@@ -237,25 +249,28 @@ export function Timeline() {
         onPointerUp={handlePointerEnd}
         onPointerCancel={handlePointerEnd}
       >
-        <div className="timeline-track" style={trackStyle}>
+          <div className="timeline-track" style={trackStyle}>
           <div className="timeline-line" />
-          <div className="timeline-ticks" aria-hidden="true">
-            {ticks.map((tick) => (
+          <div className="timeline-years" aria-hidden="true">
+            {yearMarkers.map((year) => (
               <span
-                key={tick}
-                className={tick % 5 === 0 ? 'major-tick' : undefined}
-                style={{ left: `${(tick / TICK_COUNT) * 100}%` }}
-              />
+                key={year}
+                style={{ left: `${((year - START_YEAR) / YEAR_SPAN) * 100}%` }}
+              >
+                {year}
+              </span>
             ))}
           </div>
 
           <div className="timeline-point timeline-point-start">
             <span className="point-dot" />
             <span className="point-label">First documented event</span>
+            <span className="point-year">{START_YEAR}</span>
           </div>
           <div className="timeline-point timeline-point-end">
             <span className="point-dot" />
             <span className="point-label">Now</span>
+            <span className="point-year">{END_YEAR}</span>
           </div>
         </div>
       </div>
