@@ -1,4 +1,5 @@
 import './App.css'
+import { Timeline } from './components/Timeline'
 
 function App() {
   return (
@@ -8,16 +9,7 @@ function App() {
         <h1>Alternative History of the United States</h1>
       </header>
 
-      <section className="workspace" aria-labelledby="workspace-title">
-        <div>
-          <p className="section-label">Timeline</p>
-          <h2 id="workspace-title">History has more than one path.</h2>
-          <p>
-            Explore the events that shaped the United States—and the moments
-            when the story might have unfolded differently.
-          </p>
-        </div>
-      </section>
+      <Timeline />
     </main>
   )
 }
