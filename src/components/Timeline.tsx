@@ -279,14 +279,6 @@ export function Timeline() {
         <p id="timeline-instructions">
           Scroll or pinch to zoom. Drag to move through time.
         </p>
-        <div className="timeline-overview" aria-hidden="true">
-          <span
-            style={{
-              left: `${viewStart * 100}%`,
-              width: `${(1 / zoom) * 100}%`,
-            }}
-          />
-        </div>
       </div>
     </section>
   )

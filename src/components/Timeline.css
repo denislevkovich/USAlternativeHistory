@@ -229,25 +229,6 @@
   font-size: 0.78rem;
 }
 
-.timeline-overview {
-  position: relative;
-  width: min(8rem, 28vw);
-  height: 3px;
-  overflow: hidden;
-  border-radius: 99px;
-  background: var(--color-line);
-}
-
-.timeline-overview span {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  min-width: 0.35rem;
-  border-radius: inherit;
-  background: var(--color-accent);
-  transition: left 180ms ease-out, width 180ms ease-out;
-}
-
 @media (max-width: 40rem) {
   .timeline {
     width: min(100% - 2rem, 75rem);
@@ -275,8 +256,7 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .timeline-track,
-  .timeline-overview span {
+  .timeline-track {
     transition: none;
   }
 }
