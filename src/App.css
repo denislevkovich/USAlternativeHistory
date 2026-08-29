@@ -38,20 +38,22 @@
   background: linear-gradient(
     180deg,
     #b22234 0%,
-    #b22234 28%,
-    #fff 46%,
-    #fff 56%,
-    #3c3b6e 74%,
+    #b22234 35%,
+    #f5f7fa 47%,
+    #f5f7fa 53%,
+    #3c3b6e 65%,
     #3c3b6e 100%
   );
   background-clip: text;
   -webkit-background-clip: text;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: clamp(4.5rem, 15vw, 12rem);
   font-variant-numeric: lining-nums tabular-nums;
-  letter-spacing: -0.09em;
+  font-weight: 900;
+  letter-spacing: 0.005em;
   line-height: 0.72;
   -webkit-text-fill-color: transparent;
-  -webkit-text-stroke: clamp(1px, 0.18vw, 2.25px) #111318;
+  -webkit-text-stroke: clamp(1.25px, 0.2vw, 2.5px) #111318;
 }
 
 .title-copy {
