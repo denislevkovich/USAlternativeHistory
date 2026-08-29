@@ -264,7 +264,7 @@ export function Timeline({ events, mode }: TimelineProps) {
           </div>
           <div className="event-card-copy">
             <p className="event-card-kicker">
-              {mode === 'real' ? 'Real history' : 'Alternative history'} ·{' '}
+              {mode === 'real' ? 'Facts' : 'Factoids'} ·{' '}
               {selectedEvent.yearLabel}
             </p>
             <h3>{selectedEvent.title}</h3>

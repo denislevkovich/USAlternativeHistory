@@ -19,12 +19,14 @@ function App() {
             aria-checked={isAlternative}
             onClick={() => setMode(isAlternative ? 'real' : 'alternative')}
           >
-            <span className={!isAlternative ? 'is-active' : undefined}>Real</span>
+            <span className={!isAlternative ? 'is-active' : undefined}>
+              Facts
+            </span>
             <span className="switch-track" aria-hidden="true">
               <span />
             </span>
             <span className={isAlternative ? 'is-active' : undefined}>
-              Alternative
+              Factoids
             </span>
           </button>
         </div>
