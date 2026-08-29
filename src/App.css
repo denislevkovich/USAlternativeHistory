@@ -34,10 +34,24 @@
 }
 
 .title-number {
+  color: var(--color-accent);
+  background: linear-gradient(
+    180deg,
+    #b22234 0%,
+    #b22234 28%,
+    #fff 46%,
+    #fff 56%,
+    #3c3b6e 74%,
+    #3c3b6e 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
   font-size: clamp(4.5rem, 15vw, 12rem);
   font-variant-numeric: lining-nums tabular-nums;
   letter-spacing: -0.09em;
   line-height: 0.72;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: clamp(1px, 0.18vw, 2.25px) #111318;
 }
 
 .title-copy {
