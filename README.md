@@ -1,4 +1,4 @@
-# Alternative History of the United States
+# 250 Years of American History in Facts and Factoids
 
 An interactive React and TypeScript timeline for exploring real United States
 history alongside alternative historical scenarios.

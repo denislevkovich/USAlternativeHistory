@@ -6,7 +6,7 @@ function App() {
     <main className="app-shell">
       <header className="site-header">
         <p className="eyebrow">An interactive American timeline</p>
-        <h1>Alternative History of the United States</h1>
+        <h1>250 Years of American History in Facts and Factoids</h1>
       </header>
 
       <Timeline />
