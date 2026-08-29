@@ -46,11 +46,9 @@
   );
   background-clip: text;
   -webkit-background-clip: text;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: clamp(4.5rem, 15vw, 12rem);
   font-variant-numeric: lining-nums tabular-nums;
-  font-weight: 900;
-  letter-spacing: 0.005em;
+  letter-spacing: -0.09em;
   line-height: 0.72;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke: clamp(1.25px, 0.2vw, 2.5px) #111318;
