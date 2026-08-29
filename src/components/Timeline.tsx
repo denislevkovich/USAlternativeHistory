@@ -7,6 +7,7 @@ import {
   type WheelEvent,
 } from 'react'
 import './Timeline.css'
+import type { HistoryEvent, HistoryMode } from '../data/historyEvents'
 
 const MIN_ZOOM = 1
 const MAX_ZOOM = 8
@@ -32,10 +33,16 @@ type PinchState = {
 const clamp = (value: number, min: number, max: number) =>
   Math.min(Math.max(value, min), max)
 
-export function Timeline() {
+type TimelineProps = {
+  events: HistoryEvent[]
+  mode: HistoryMode
+}
+
+export function Timeline({ events, mode }: TimelineProps) {
   const [zoom, setZoom] = useState(MIN_ZOOM)
   const [viewStart, setViewStart] = useState(0)
   const [isDragging, setIsDragging] = useState(false)
+  const [selectedEventId, setSelectedEventId] = useState<string | null>(null)
   const viewportRef = useRef<HTMLDivElement>(null)
   const pointers = useRef(new Map<number, number>())
   const drag = useRef<DragState | null>(null)
@@ -54,6 +61,12 @@ export function Timeline() {
 
     return years
   }, [yearInterval])
+  const visibleEvents = useMemo(
+    () => events.filter((event) => event.revealAt <= zoom),
+    [events, zoom],
+  )
+  const selectedEvent = events.find((event) => event.id === selectedEventId)
+  const firstEvent = events.find((event) => event.year === START_YEAR)
 
   const maxViewStart = (nextZoom = zoom) => 1 - 1 / nextZoom
 
@@ -235,6 +248,43 @@ export function Timeline() {
         </div>
       </div>
 
+      {selectedEvent && (
+        <article className="event-card" aria-live="polite">
+          <button
+            type="button"
+            className="event-card-close"
+            onClick={() => setSelectedEventId(null)}
+            aria-label="Close event details"
+          >
+            ×
+          </button>
+          <div className="event-media" aria-label={selectedEvent.mediaLabel}>
+            <span>{selectedEvent.yearLabel}</span>
+            <strong>{selectedEvent.mediaLabel}</strong>
+          </div>
+          <div className="event-card-copy">
+            <p className="event-card-kicker">
+              {mode === 'real' ? 'Real history' : 'Alternative history'} ·{' '}
+              {selectedEvent.yearLabel}
+            </p>
+            <h3>{selectedEvent.title}</h3>
+            <p>{selectedEvent.description}</p>
+            <div className="event-sources">
+              <span>Sources</span>
+              <ul>
+                {selectedEvent.sources.map((source) => (
+                  <li key={source.url}>
+                    <a href={source.url} target="_blank" rel="noreferrer">
+                      {source.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </article>
+      )}
+
       <div
         ref={viewportRef}
         className={`timeline-viewport${isDragging ? ' is-dragging' : ''}`}
@@ -249,7 +299,7 @@ export function Timeline() {
         onPointerUp={handlePointerEnd}
         onPointerCancel={handlePointerEnd}
       >
-          <div className="timeline-track" style={trackStyle}>
+        <div className="timeline-track" style={trackStyle}>
           <div className="timeline-line" />
           <div className="timeline-years" aria-hidden="true">
             {yearMarkers.map((year) => (
@@ -262,11 +312,45 @@ export function Timeline() {
             ))}
           </div>
 
-          <div className="timeline-point timeline-point-start">
+          {visibleEvents
+            .filter((event) => event.year > START_YEAR && event.year < END_YEAR)
+            .map((event, index) => (
+              <button
+                type="button"
+                key={event.id}
+                className={`timeline-event timeline-event-${index % 2 === 0 ? 'above' : 'below'}${selectedEventId === event.id ? ' is-selected' : ''}`}
+                style={{
+                  left: `${((event.year - START_YEAR) / YEAR_SPAN) * 100}%`,
+                }}
+                aria-label={`${event.yearLabel}: ${event.title}`}
+                aria-pressed={selectedEventId === event.id}
+                onPointerDown={(event) => event.stopPropagation()}
+                onClick={() => setSelectedEventId(event.id)}
+              >
+                <span className="event-dot" />
+                <span className="event-dot-label">
+                  <strong>{event.yearLabel}</strong>
+                  {event.title}
+                </span>
+              </button>
+            ))}
+
+          <button
+            type="button"
+            className={`timeline-point timeline-point-start${selectedEventId === firstEvent?.id ? ' is-selected' : ''}`}
+            aria-label={
+              firstEvent
+                ? `${firstEvent.yearLabel}: ${firstEvent.title}`
+                : 'First documented event'
+            }
+            aria-pressed={selectedEventId === firstEvent?.id}
+            onPointerDown={(event) => event.stopPropagation()}
+            onClick={() => firstEvent && setSelectedEventId(firstEvent.id)}
+          >
             <span className="point-dot" />
             <span className="point-label">First documented event</span>
             <span className="point-year">{START_YEAR}</span>
-          </div>
+          </button>
           <div className="timeline-point timeline-point-end">
             <span className="point-dot" />
             <span className="point-label">Now</span>
