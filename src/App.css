@@ -20,16 +20,35 @@
   text-transform: uppercase;
 }
 
-.site-header h1 {
-  max-width: 16ch;
+.title-lockup {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(0.75rem, 3vw, 2.5rem);
+  width: 100%;
   margin: 0;
   color: var(--color-ink);
   font-family: var(--font-display);
-  font-size: clamp(2.5rem, 7vw, 5.75rem);
   font-weight: 700;
   letter-spacing: -0.045em;
-  line-height: 0.94;
-  text-wrap: balance;
+}
+
+.title-number {
+  font-size: clamp(4.5rem, 15vw, 12rem);
+  font-variant-numeric: lining-nums tabular-nums;
+  letter-spacing: -0.09em;
+  line-height: 0.72;
+}
+
+.title-copy {
+  display: grid;
+  gap: 0.04em;
+  font-size: clamp(1.05rem, 4.9vw, 4.15rem);
+  line-height: 0.92;
+}
+
+.title-copy span {
+  white-space: nowrap;
 }
 
 @media (max-width: 40rem) {
