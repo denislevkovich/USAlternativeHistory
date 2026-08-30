@@ -7,18 +7,68 @@ export type HistorySource = {
   url?: string
 }
 
+export type HistoryMedia =
+  | {
+      kind: 'image'
+      sourceUrl: string
+      displayUrl: string
+    }
+  | {
+      kind: 'link'
+      sourceUrl: string
+    }
+  | {
+      kind: 'unavailable'
+    }
+
 export type HistoryEvent = {
   id: string
   year: number
   yearLabel: string
   title: string
   description: string
-  mediaLabel: string
+  media: HistoryMedia
   sources: HistorySource[]
   revealAt: number
 }
 
-type RawHistoryEvent = Omit<HistoryEvent, 'id' | 'revealAt'>
+type RawHistoryEvent = {
+  year: number
+  yearLabel: string
+  title: string
+  description: string
+  media: string
+  sources: HistorySource[]
+}
+
+const COMMONS_FILE_PREFIX = 'https://commons.wikimedia.org/wiki/File:'
+
+const normalizeMedia = (value: string): HistoryMedia => {
+  const mediaValue = value.trim()
+
+  if (mediaValue.startsWith(COMMONS_FILE_PREFIX)) {
+    const encodedFileName = mediaValue.slice(COMMONS_FILE_PREFIX.length)
+    let fileName = encodedFileName
+
+    try {
+      fileName = decodeURIComponent(encodedFileName)
+    } catch {
+      // Keep the value as provided when a file name contains a stray percent sign.
+    }
+
+    return {
+      kind: 'image',
+      sourceUrl: mediaValue,
+      displayUrl: `https://commons.wikimedia.org/wiki/Special:Redirect/file/${encodeURIComponent(fileName)}`,
+    }
+  }
+
+  if (/^https?:\/\//i.test(mediaValue)) {
+    return { kind: 'link', sourceUrl: mediaValue }
+  }
+
+  return { kind: 'unavailable' }
+}
 
 const createSlug = (value: string) =>
   value
@@ -46,6 +96,7 @@ const normalizeEvents = (rows: RawHistoryEvent[]): HistoryEvent[] => {
     return {
       ...row,
       id: occurrence === 1 ? baseId : `${baseId}-${occurrence}`,
+      media: normalizeMedia(row.media),
       sources: row.sources.map((source) => ({
         label: source.label,
         url: 'url' in source ? source.url : undefined,

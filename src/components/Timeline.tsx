@@ -258,10 +258,48 @@ export function Timeline({ events, mode }: TimelineProps) {
           >
             ×
           </button>
-          <div className="event-media" aria-label={selectedEvent.mediaLabel}>
-            <span>{selectedEvent.yearLabel}</span>
-            <strong>{selectedEvent.mediaLabel}</strong>
-          </div>
+          {selectedEvent.media.kind === 'image' ? (
+            <figure className="event-media">
+              <a
+                className="event-media-image-link"
+                href={selectedEvent.media.sourceUrl}
+                target="_blank"
+                rel="noreferrer"
+                aria-label={`Open the original media for ${selectedEvent.title}`}
+              >
+                <img
+                  src={selectedEvent.media.displayUrl}
+                  alt={`Media for ${selectedEvent.title}`}
+                  loading="lazy"
+                />
+              </a>
+              <figcaption>
+                <span>Media</span>
+                <a
+                  href={selectedEvent.media.sourceUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  View original
+                </a>
+              </figcaption>
+            </figure>
+          ) : selectedEvent.media.kind === 'link' ? (
+            <div className="event-media event-media-link">
+              <span>Media</span>
+              <a
+                href={selectedEvent.media.sourceUrl}
+                target="_blank"
+                rel="noreferrer"
+              >
+                Open media source ↗
+              </a>
+            </div>
+          ) : (
+            <div className="event-media event-media-missing">
+              <span>Media unavailable</span>
+            </div>
+          )}
           <div className="event-card-copy">
             <p className="event-card-kicker">
               {mode === 'real' ? 'Facts' : 'Factoids'} ·{' '}
