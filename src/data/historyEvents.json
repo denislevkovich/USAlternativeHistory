@@ -1,0 +1,3157 @@
+{
+  "source": "https://docs.google.com/spreadsheets/d/12oN5f4D8dYtmmSE2zOXyBpYiZ_yMwX0rdj1NW7-HlYI/edit",
+  "real": [
+    {
+      "year": 1607,
+      "yearLabel": "1607",
+      "title": "Jamestown Founded",
+      "description": "English colonists establish Jamestown, Virginia, the first permanent English settlement in North America.",
+      "mediaLabel": "Illustration/map of Jamestown fort (Library of Congress Prints & Photographs Division)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        }
+      ]
+    },
+    {
+      "year": 1619,
+      "yearLabel": "1619",
+      "title": "First Enslaved Africans Arrive in Virginia",
+      "description": "A ship brings the first recorded enslaved Africans to English North America at Point Comfort, Virginia, beginning over two centuries of chattel slavery.",
+      "mediaLabel": "Point Comfort historical marker photo (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Park Service, Fort Monroe",
+          "url": "https://nps.gov/fomr"
+        }
+      ]
+    },
+    {
+      "year": 1620,
+      "yearLabel": "1620",
+      "title": "Mayflower Compact / Plymouth Colony",
+      "description": "Pilgrims aboard the Mayflower sign a compact for self-government before founding Plymouth Colony in Massachusetts.",
+      "mediaLabel": "Painting 'The Mayflower Compact' (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1754,
+      "yearLabel": "1754–1763",
+      "title": "French and Indian War",
+      "description": "Britain and France fight for control of North American territory; Britain's costly victory leads to new taxes on the colonies.",
+      "mediaLabel": "Map of North America, 1763 (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        }
+      ]
+    },
+    {
+      "year": 1765,
+      "yearLabel": "1765",
+      "title": "Stamp Act",
+      "description": "Parliament taxes printed materials in the colonies, sparking the cry 'no taxation without representation.'",
+      "mediaLabel": "Stamp Act stamp image (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1770,
+      "yearLabel": "1770",
+      "title": "Boston Massacre",
+      "description": "British soldiers kill five colonists during a confrontation in Boston, inflaming anti-British sentiment.",
+      "mediaLabel": "Paul Revere engraving of the Boston Massacre (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1773,
+      "yearLabel": "1773",
+      "title": "Boston Tea Party",
+      "description": "Colonists dump British tea into Boston Harbor to protest the Tea Act, a landmark act of colonial defiance.",
+      "mediaLabel": "Engraving 'Boston Tea Party' (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        }
+      ]
+    },
+    {
+      "year": 1775,
+      "yearLabel": "1775",
+      "title": "Battles of Lexington and Concord",
+      "description": "The first shots of the American Revolutionary War are fired in Massachusetts.",
+      "mediaLabel": "Painting of the Battle of Lexington (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1776,
+      "yearLabel": "1776",
+      "title": "Declaration of Independence",
+      "description": "The Second Continental Congress adopts the Declaration of Independence on July 4, declaring the thirteen colonies free from British rule.",
+      "mediaLabel": "Declaration of Independence manuscript image (National Archives)",
+      "sources": [
+        {
+          "label": "National Archives, America's Founding Documents",
+          "url": "https://archives.gov/founding-docs"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        },
+        {
+          "label": "Virginia Dept. of Education, History & Social Science Standards of Learning",
+          "url": "https://doe.virginia.gov/teaching-learning-assessment/k-12-standards-instruction/history-and-social-science/standards-of-learning"
+        }
+      ]
+    },
+    {
+      "year": 1777,
+      "yearLabel": "1777",
+      "title": "Battle of Saratoga",
+      "description": "A decisive American victory in New York convinces France to formally ally with the United States.",
+      "mediaLabel": "Map of the Saratoga campaign (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1777,
+      "yearLabel": "1777–1778",
+      "title": "Valley Forge Winter Encampment",
+      "description": "General Washington's Continental Army endures a brutal winter at Valley Forge, Pennsylvania, emerging a stronger fighting force.",
+      "mediaLabel": "Painting 'Washington at Valley Forge' (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1781,
+      "yearLabel": "1781",
+      "title": "Siege of Yorktown",
+      "description": "Combined American and French forces force the surrender of British General Cornwallis, effectively ending the Revolutionary War.",
+      "mediaLabel": "Painting 'Surrender of Lord Cornwallis' (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1783,
+      "yearLabel": "1783",
+      "title": "Treaty of Paris",
+      "description": "Britain formally recognizes American independence, ending the Revolutionary War.",
+      "mediaLabel": "Treaty of Paris document image (National Archives)",
+      "sources": [
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1787,
+      "yearLabel": "1787",
+      "title": "U.S. Constitution Drafted",
+      "description": "Delegates at the Constitutional Convention in Philadelphia draft the U.S. Constitution, establishing the framework of American government.",
+      "mediaLabel": "Constitution manuscript image (National Archives)",
+      "sources": [
+        {
+          "label": "National Archives, America's Founding Documents",
+          "url": "https://archives.gov/founding-docs"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        },
+        {
+          "label": "Virginia Dept. of Education, History & Social Science Standards of Learning",
+          "url": "https://doe.virginia.gov/teaching-learning-assessment/k-12-standards-instruction/history-and-social-science/standards-of-learning"
+        }
+      ]
+    },
+    {
+      "year": 1788,
+      "yearLabel": "1788",
+      "title": "Constitution Ratified",
+      "description": "The Constitution is ratified by the required nine states and becomes the law of the land.",
+      "mediaLabel": "Ratification broadside (Library of Congress)",
+      "sources": [
+        {
+          "label": "National Archives, America's Founding Documents",
+          "url": "https://archives.gov/founding-docs"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1789,
+      "yearLabel": "1789",
+      "title": "Washington Inaugurated; Federal Government Begins",
+      "description": "George Washington is inaugurated as the first U.S. President in New York City; the first Congress and federal judiciary convene.",
+      "mediaLabel": "Painting of Washington's inauguration (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        }
+      ]
+    },
+    {
+      "year": 1791,
+      "yearLabel": "1791",
+      "title": "Bill of Rights Ratified",
+      "description": "The first ten amendments to the Constitution, guaranteeing individual liberties, are ratified.",
+      "mediaLabel": "Bill of Rights document image (National Archives)",
+      "sources": [
+        {
+          "label": "National Archives, America's Founding Documents",
+          "url": "https://archives.gov/founding-docs"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Virginia Dept. of Education, History & Social Science Standards of Learning",
+          "url": "https://doe.virginia.gov/teaching-learning-assessment/k-12-standards-instruction/history-and-social-science/standards-of-learning"
+        }
+      ]
+    },
+    {
+      "year": 1803,
+      "yearLabel": "1803",
+      "title": "Louisiana Purchase",
+      "description": "The U.S. buys roughly 828,000 square miles of territory from France, doubling the nation's size.",
+      "mediaLabel": "Map of the Louisiana Purchase territory (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        }
+      ]
+    },
+    {
+      "year": 1803,
+      "yearLabel": "1803",
+      "title": "Marbury v. Madison",
+      "description": "The Supreme Court establishes the principle of judicial review, asserting its power to strike down unconstitutional laws.",
+      "mediaLabel": "Supreme Court building image (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Oyez, Marbury v. Madison",
+          "url": "https://oyez.org"
+        }
+      ]
+    },
+    {
+      "year": 1804,
+      "yearLabel": "1804–1806",
+      "title": "Lewis and Clark Expedition",
+      "description": "Meriwether Lewis and William Clark lead an expedition to explore and map the newly acquired western territory.",
+      "mediaLabel": "Map of the Lewis and Clark trail (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1812,
+      "yearLabel": "1812–1815",
+      "title": "War of 1812",
+      "description": "The U.S. and Britain fight a second war; the burning of Washington and the writing of 'The Star-Spangled Banner' both occur during the conflict.",
+      "mediaLabel": "Painting of the burning of the White House, 1814 (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        }
+      ]
+    },
+    {
+      "year": 1820,
+      "yearLabel": "1820",
+      "title": "Missouri Compromise",
+      "description": "Congress admits Missouri as a slave state and Maine as a free state while banning slavery north of latitude 36°30′, temporarily easing sectional tension.",
+      "mediaLabel": "Map of the Missouri Compromise line (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1823,
+      "yearLabel": "1823",
+      "title": "Monroe Doctrine",
+      "description": "President Monroe declares the Western Hemisphere off-limits to further European colonization.",
+      "mediaLabel": "Portrait of President James Monroe (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        }
+      ]
+    },
+    {
+      "year": 1830,
+      "yearLabel": "1830",
+      "title": "Indian Removal Act",
+      "description": "Congress authorizes the forced relocation of Native American nations from the southeastern United States.",
+      "mediaLabel": "Map of Indian removal routes (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        }
+      ]
+    },
+    {
+      "year": 1836,
+      "yearLabel": "1836",
+      "title": "Battle of the Alamo",
+      "description": "Texan defenders are defeated by Mexican forces at the Alamo in San Antonio, becoming a rallying cry in the Texas Revolution.",
+      "mediaLabel": "Painting 'The Fall of the Alamo' (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1838,
+      "yearLabel": "1838–1839",
+      "title": "Trail of Tears",
+      "description": "Tens of thousands of Cherokee and other Native Americans are forcibly relocated west, with thousands dying along the way.",
+      "mediaLabel": "Painting depicting the Trail of Tears (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Park Service, Trail of Tears",
+          "url": "https://nps.gov/trte"
+        }
+      ]
+    },
+    {
+      "year": 1846,
+      "yearLabel": "1846–1848",
+      "title": "Mexican-American War",
+      "description": "War between the U.S. and Mexico ends with the Treaty of Guadalupe Hidalgo, ceding vast southwestern territory to the U.S.",
+      "mediaLabel": "Map of Mexican Cession territory (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        }
+      ]
+    },
+    {
+      "year": 1848,
+      "yearLabel": "1848",
+      "title": "Seneca Falls Convention",
+      "description": "The first women's rights convention in the U.S. produces the Declaration of Sentiments, launching the organized women's suffrage movement.",
+      "mediaLabel": "Image of the Wesleyan Chapel, Seneca Falls (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Park Service, Women's Rights NHP",
+          "url": "https://nps.gov/wori"
+        }
+      ]
+    },
+    {
+      "year": 1848,
+      "yearLabel": "1848–1855",
+      "title": "California Gold Rush",
+      "description": "The discovery of gold at Sutter's Mill draws hundreds of thousands of migrants to California.",
+      "mediaLabel": "Photo/lithograph of Gold Rush miners (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1850,
+      "yearLabel": "1850",
+      "title": "Compromise of 1850",
+      "description": "A package of laws, including the Fugitive Slave Act, attempts to balance free and slave state interests.",
+      "mediaLabel": "Political cartoon on the Compromise of 1850 (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1854,
+      "yearLabel": "1854",
+      "title": "Kansas-Nebraska Act",
+      "description": "The act allows territories to decide the slavery question by popular sovereignty, leading to violent conflict known as 'Bleeding Kansas.'",
+      "mediaLabel": "Map of Kansas and Nebraska territories (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1857,
+      "yearLabel": "1857",
+      "title": "Dred Scott v. Sandford",
+      "description": "The Supreme Court rules that Black Americans, enslaved or free, cannot be U.S. citizens, inflaming sectional tensions.",
+      "mediaLabel": "Portrait of Dred Scott (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Oyez, Dred Scott v. Sandford",
+          "url": "https://oyez.org"
+        }
+      ]
+    },
+    {
+      "year": 1861,
+      "yearLabel": "1861–1865",
+      "title": "American Civil War",
+      "description": "War between the Union and the seceded Confederate States over slavery and states' rights, the deadliest conflict in U.S. history.",
+      "mediaLabel": "Photograph of Civil War battlefield, Mathew Brady collection (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        },
+        {
+          "label": "Virginia Dept. of Education, History & Social Science Standards of Learning",
+          "url": "https://doe.virginia.gov/teaching-learning-assessment/k-12-standards-instruction/history-and-social-science/standards-of-learning"
+        }
+      ]
+    },
+    {
+      "year": 1862,
+      "yearLabel": "1862",
+      "title": "Homestead Act",
+      "description": "The act grants 160-acre plots of public land to settlers who farm it, spurring westward migration.",
+      "mediaLabel": "Homestead Act document image (National Archives)",
+      "sources": [
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1863,
+      "yearLabel": "1863",
+      "title": "Emancipation Proclamation",
+      "description": "President Lincoln declares enslaved people in Confederate states to be free, reframing the Civil War as a fight to end slavery.",
+      "mediaLabel": "Emancipation Proclamation manuscript image (National Archives)",
+      "sources": [
+        {
+          "label": "Britannica, Emancipation Proclamation",
+          "url": "https://britannica.com/event/Emancipation-Proclamation"
+        },
+        {
+          "label": "National Archives, The Emancipation Proclamation",
+          "url": "https://archives.gov/exhibits/featured-documents/emancipation-proclamation"
+        }
+      ]
+    },
+    {
+      "year": 1863,
+      "yearLabel": "1863",
+      "title": "Gettysburg Address",
+      "description": "President Lincoln delivers a brief but historic speech honoring soldiers at the Gettysburg battlefield.",
+      "mediaLabel": "Photograph of the Gettysburg battlefield (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        }
+      ]
+    },
+    {
+      "year": 1865,
+      "yearLabel": "1865",
+      "title": "Thirteenth Amendment Ratified; Lincoln Assassinated",
+      "description": "Slavery is abolished nationwide; days after Confederate surrender, President Lincoln is assassinated by John Wilkes Booth.",
+      "mediaLabel": "Photograph of Ford's Theatre (Library of Congress)",
+      "sources": [
+        {
+          "label": "National Archives, America's Founding Documents",
+          "url": "https://archives.gov/founding-docs"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1865,
+      "yearLabel": "1865–1877",
+      "title": "Reconstruction Era",
+      "description": "The nation rebuilds after the Civil War, extending citizenship and voting rights to formerly enslaved people amid violent backlash.",
+      "mediaLabel": "Reconstruction-era political cartoon (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        }
+      ]
+    },
+    {
+      "year": 1868,
+      "yearLabel": "1868",
+      "title": "Fourteenth Amendment Ratified",
+      "description": "The amendment grants citizenship and equal protection under the law to all persons born or naturalized in the U.S.",
+      "mediaLabel": "Fourteenth Amendment document image (National Archives)",
+      "sources": [
+        {
+          "label": "National Archives, America's Founding Documents",
+          "url": "https://archives.gov/founding-docs"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1869,
+      "yearLabel": "1869",
+      "title": "Transcontinental Railroad Completed",
+      "description": "The Union Pacific and Central Pacific railroads meet at Promontory Summit, Utah, linking the country by rail.",
+      "mediaLabel": "Photo 'Golden Spike' ceremony (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1870,
+      "yearLabel": "1870",
+      "title": "Fifteenth Amendment Ratified",
+      "description": "The amendment prohibits denying the right to vote based on race, though many states later circumvented it.",
+      "mediaLabel": "Fifteenth Amendment celebration print (Library of Congress)",
+      "sources": [
+        {
+          "label": "National Archives, America's Founding Documents",
+          "url": "https://archives.gov/founding-docs"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1876,
+      "yearLabel": "1876",
+      "title": "Battle of the Little Bighorn",
+      "description": "Lakota, Cheyenne, and Arapaho warriors defeat U.S. Army forces led by Lt. Col. George Custer in Montana.",
+      "mediaLabel": "Painting depicting the battle (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Park Service, Little Bighorn Battlefield",
+          "url": "https://nps.gov/libi"
+        }
+      ]
+    },
+    {
+      "year": 1886,
+      "yearLabel": "1886",
+      "title": "Statue of Liberty Dedicated",
+      "description": "France's gift to the United States is dedicated in New York Harbor, becoming a symbol of freedom and immigration.",
+      "mediaLabel": "Photograph of the Statue of Liberty dedication (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1890,
+      "yearLabel": "1890",
+      "title": "Wounded Knee Massacre",
+      "description": "U.S. troops kill several hundred Lakota men, women, and children in South Dakota, a tragic end to the Indian Wars.",
+      "mediaLabel": "Photograph of the Wounded Knee aftermath (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1892,
+      "yearLabel": "1892",
+      "title": "Ellis Island Opens",
+      "description": "The federal immigration station opens in New York Harbor, processing millions of immigrants over the following decades.",
+      "mediaLabel": "Photograph of immigrants at Ellis Island (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1898,
+      "yearLabel": "1898",
+      "title": "Spanish-American War",
+      "description": "A brief war results in the U.S. acquiring Puerto Rico, Guam, and the Philippines, and establishing influence over Cuba.",
+      "mediaLabel": "Photograph of Rough Riders, 1898 (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1903,
+      "yearLabel": "1903",
+      "title": "Wright Brothers' First Powered Flight",
+      "description": "Orville and Wilbur Wright achieve the first sustained, controlled flight of a powered aircraft at Kitty Hawk, North Carolina.",
+      "mediaLabel": "Photograph of the first flight, Dec. 17, 1903 (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Smithsonian National Air and Space Museum",
+          "url": "https://airandspace.si.edu"
+        }
+      ]
+    },
+    {
+      "year": 1913,
+      "yearLabel": "1913",
+      "title": "Sixteenth Amendment & Federal Reserve Act",
+      "description": "The income tax is authorized and the Federal Reserve System is created to stabilize the banking system.",
+      "mediaLabel": "Federal Reserve Act document image (National Archives)",
+      "sources": [
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1914,
+      "yearLabel": "1914–1918 (U.S. 1917–1918)",
+      "title": "World War I",
+      "description": "The U.S. enters World War I in 1917, helping tip the balance on the Western Front.",
+      "mediaLabel": "Photograph of American troops departing for Europe (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        }
+      ]
+    },
+    {
+      "year": 1920,
+      "yearLabel": "1920",
+      "title": "Nineteenth Amendment Ratified",
+      "description": "The amendment grants women the constitutional right to vote after decades of suffrage activism.",
+      "mediaLabel": "Suffrage parade photograph (Library of Congress)",
+      "sources": [
+        {
+          "label": "National Archives, America's Founding Documents",
+          "url": "https://archives.gov/founding-docs"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Virginia Dept. of Education, History & Social Science Standards of Learning",
+          "url": "https://doe.virginia.gov/teaching-learning-assessment/k-12-standards-instruction/history-and-social-science/standards-of-learning"
+        }
+      ]
+    },
+    {
+      "year": 1920,
+      "yearLabel": "1920s",
+      "title": "Harlem Renaissance",
+      "description": "A flourishing of Black literature, music, and art centered in Harlem, New York, reshapes American culture.",
+      "mediaLabel": "Photograph of a Harlem Renaissance jazz performance (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1929,
+      "yearLabel": "1929",
+      "title": "Stock Market Crash",
+      "description": "The crash of the New York Stock Exchange triggers the Great Depression, the worst economic downturn in U.S. history.",
+      "mediaLabel": "Photograph of crowds outside the NYSE, 1929 (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1933,
+      "yearLabel": "1933–1939",
+      "title": "New Deal",
+      "description": "President Franklin D. Roosevelt launches sweeping relief, recovery, and reform programs to combat the Great Depression.",
+      "mediaLabel": "Photograph of a WPA public works project (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        }
+      ]
+    },
+    {
+      "year": 1935,
+      "yearLabel": "1935",
+      "title": "Social Security Act",
+      "description": "The act establishes a national system of old-age, unemployment, and disability insurance.",
+      "mediaLabel": "Social Security Act signing photograph (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        }
+      ]
+    },
+    {
+      "year": 1941,
+      "yearLabel": "1941",
+      "title": "Attack on Pearl Harbor",
+      "description": "A surprise Japanese attack on the U.S. naval base in Hawaii brings the United States into World War II.",
+      "mediaLabel": "Photograph of USS Arizona at Pearl Harbor (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Pearl Harbor records",
+          "url": "https://archives.gov"
+        }
+      ]
+    },
+    {
+      "year": 1944,
+      "yearLabel": "1944",
+      "title": "D-Day Invasion of Normandy",
+      "description": "Allied forces land in Normandy, France, opening the Western Front and turning the tide of World War II in Europe.",
+      "mediaLabel": "Photograph of troops landing on D-Day (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "yearLabel": "1945",
+      "title": "Atomic Bombings and End of World War II",
+      "description": "The U.S. drops atomic bombs on Hiroshima and Nagasaki; Japan surrenders, ending World War II.",
+      "mediaLabel": "Photograph of the atomic bomb mushroom cloud (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1947,
+      "yearLabel": "1947",
+      "title": "Jackie Robinson Breaks MLB's Color Barrier",
+      "description": "Jackie Robinson debuts for the Brooklyn Dodgers, becoming the first Black player in modern Major League Baseball.",
+      "mediaLabel": "Photograph of Jackie Robinson, 1947 (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Baseball Hall of Fame",
+          "url": "https://baseballhall.org"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "yearLabel": "1950–1953",
+      "title": "Korean War",
+      "description": "U.S.-led UN forces fight to defend South Korea against the North, ending in an armistice near the original border.",
+      "mediaLabel": "Photograph of U.S. troops in Korea (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "yearLabel": "1954",
+      "title": "Brown v. Board of Education",
+      "description": "The Supreme Court unanimously rules that racial segregation in public schools is unconstitutional.",
+      "mediaLabel": "Photograph of the Brown v. Board plaintiffs (Library of Congress)",
+      "sources": [
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Oyez, Brown v. Board of Education",
+          "url": "https://oyez.org"
+        }
+      ]
+    },
+    {
+      "year": 1955,
+      "yearLabel": "1955–1956",
+      "title": "Montgomery Bus Boycott",
+      "description": "Rosa Parks' arrest sparks a 381-day boycott led by Martin Luther King Jr., a landmark of the Civil Rights Movement.",
+      "mediaLabel": "Photograph of Rosa Parks on a bus, 1956 (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1957,
+      "yearLabel": "1957",
+      "title": "Little Rock Nine",
+      "description": "Nine Black students integrate Central High School in Little Rock, Arkansas, under federal protection.",
+      "mediaLabel": "Photograph of the Little Rock Nine escorted by troops (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Park Service, Little Rock Central High",
+          "url": "https://nps.gov/chsc"
+        }
+      ]
+    },
+    {
+      "year": 1958,
+      "yearLabel": "1958",
+      "title": "NASA Founded",
+      "description": "Congress creates the National Aeronautics and Space Administration in response to the Soviet launch of Sputnik.",
+      "mediaLabel": "Photograph of early NASA mission control (NASA)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "NASA History Office",
+          "url": "https://history.nasa.gov"
+        }
+      ]
+    },
+    {
+      "year": 1959,
+      "yearLabel": "1959",
+      "title": "Alaska and Hawaii Admitted as States",
+      "description": "Alaska and Hawaii become the 49th and 50th U.S. states, completing the current map of the union.",
+      "mediaLabel": "Map showing Alaska and Hawaii statehood (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "yearLabel": "1961–1973",
+      "title": "Vietnam War",
+      "description": "U.S. combat involvement in Vietnam grows through the 1960s and ends with withdrawal in 1973, a deeply divisive conflict at home.",
+      "mediaLabel": "Photograph of U.S. troops in Vietnam (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Prince William County Public Schools, U.S. & Virginia History curriculum",
+          "url": "https://catalog.pwcs.edu/history-and-social-science-standard/us-and-virginia-history"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "yearLabel": "1962",
+      "title": "Cuban Missile Crisis",
+      "description": "A 13-day standoff between the U.S. and Soviet Union over missiles in Cuba brings the world to the brink of nuclear war.",
+      "mediaLabel": "Photograph of Soviet missile site reconnaissance (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1963,
+      "yearLabel": "1963",
+      "title": "March on Washington & 'I Have a Dream'",
+      "description": "Martin Luther King Jr. delivers his 'I Have a Dream' speech to over 200,000 demonstrators at the Lincoln Memorial.",
+      "mediaLabel": "Photograph of the March on Washington crowd (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1963,
+      "yearLabel": "1963",
+      "title": "Assassination of President John F. Kennedy",
+      "description": "President Kennedy is assassinated in Dallas, Texas, shocking the nation.",
+      "mediaLabel": "Photograph of the presidential motorcade in Dallas (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        }
+      ]
+    },
+    {
+      "year": 1964,
+      "yearLabel": "1964",
+      "title": "Civil Rights Act of 1964",
+      "description": "Landmark legislation outlaws discrimination based on race, color, religion, sex, or national origin.",
+      "mediaLabel": "Photograph of the Civil Rights Act signing (Library of Congress)",
+      "sources": [
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1965,
+      "yearLabel": "1965",
+      "title": "Voting Rights Act",
+      "description": "The act outlaws discriminatory voting practices that had disenfranchised Black Americans, especially in the South.",
+      "mediaLabel": "Photograph of the Voting Rights Act signing (Library of Congress)",
+      "sources": [
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1969,
+      "yearLabel": "1969",
+      "title": "Apollo 11 Moon Landing",
+      "description": "Neil Armstrong and Buzz Aldrin become the first humans to walk on the Moon.",
+      "mediaLabel": "Photograph of Buzz Aldrin on the Moon (NASA)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "NASA, Apollo 11 mission overview",
+          "url": "https://nasa.gov"
+        }
+      ]
+    },
+    {
+      "year": 1972,
+      "yearLabel": "1972–1974",
+      "title": "Watergate Scandal",
+      "description": "A break-in and cover-up tied to the Nixon administration triggers a constitutional crisis and congressional investigation.",
+      "mediaLabel": "Photograph of the Watergate complex (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1973,
+      "yearLabel": "1973",
+      "title": "Roe v. Wade",
+      "description": "The Supreme Court rules that the Constitution protects a woman's right to choose an abortion, a decision later overturned in 2022.",
+      "mediaLabel": "Supreme Court building photograph (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Oyez, Roe v. Wade",
+          "url": "https://oyez.org"
+        }
+      ]
+    },
+    {
+      "year": 1974,
+      "yearLabel": "1974",
+      "title": "Nixon Resigns the Presidency",
+      "description": "Facing near-certain impeachment over Watergate, President Nixon becomes the only U.S. president to resign from office.",
+      "mediaLabel": "Photograph of Nixon departing the White House (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "yearLabel": "1990",
+      "title": "Americans with Disabilities Act",
+      "description": "Landmark civil rights legislation prohibits discrimination against people with disabilities.",
+      "mediaLabel": "ADA signing ceremony photograph (Library of Congress)",
+      "sources": [
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "yearLabel": "1991",
+      "title": "Persian Gulf War",
+      "description": "A U.S.-led coalition expels Iraqi forces from Kuwait in a swift military campaign.",
+      "mediaLabel": "Photograph of coalition forces in the Gulf War (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "yearLabel": "2001",
+      "title": "September 11 Attacks",
+      "description": "Terrorist attacks destroy the World Trade Center and strike the Pentagon, killing nearly 3,000 people and reshaping U.S. policy.",
+      "mediaLabel": "Photograph of the World Trade Center towers (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "9/11 Memorial & Museum",
+          "url": "https://911memorial.org"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "yearLabel": "2003–2011",
+      "title": "Iraq War",
+      "description": "The U.S. leads an invasion of Iraq that topples Saddam Hussein, followed by years of occupation and insurgency.",
+      "mediaLabel": "Photograph of U.S. troops in Iraq (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "yearLabel": "2005",
+      "title": "Hurricane Katrina",
+      "description": "One of the deadliest and costliest hurricanes in U.S. history devastates New Orleans and the Gulf Coast.",
+      "mediaLabel": "Photograph of flooding in New Orleans (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "NOAA, Hurricane Katrina",
+          "url": "https://noaa.gov"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "yearLabel": "2008",
+      "title": "Financial Crisis / Great Recession",
+      "description": "A collapse in the housing and banking sectors triggers the worst U.S. economic downturn since the Great Depression.",
+      "mediaLabel": "Photograph of Wall Street during the 2008 crisis (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "yearLabel": "2008",
+      "title": "Barack Obama Elected President",
+      "description": "Barack Obama becomes the first African American elected President of the United States.",
+      "mediaLabel": "Photograph of Obama's election night speech (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "yearLabel": "2010",
+      "title": "Affordable Care Act",
+      "description": "Landmark health care reform expands insurance coverage and reshapes the U.S. health care system.",
+      "mediaLabel": "ACA signing ceremony photograph (Library of Congress)",
+      "sources": [
+        {
+          "label": "National Archives, Milestone Documents",
+          "url": "https://archives.gov/milestone-documents/list"
+        },
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "yearLabel": "2015",
+      "title": "Obergefell v. Hodges",
+      "description": "The Supreme Court rules that same-sex couples have a constitutional right to marry nationwide.",
+      "mediaLabel": "Supreme Court building photograph (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "Oyez, Obergefell v. Hodges",
+          "url": "https://oyez.org"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "yearLabel": "2020–2023",
+      "title": "COVID-19 Pandemic",
+      "description": "A global pandemic leads to lockdowns, over a million U.S. deaths, and rapid development of vaccines.",
+      "mediaLabel": "Photograph of a COVID-19 vaccination site (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        },
+        {
+          "label": "CDC, COVID-19 timeline",
+          "url": "https://cdc.gov"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "yearLabel": "2020",
+      "title": "George Floyd Protests",
+      "description": "The killing of George Floyd by Minneapolis police sparks nationwide protests over racial justice and policing.",
+      "mediaLabel": "Photograph of 2020 racial justice protests (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "yearLabel": "2021",
+      "title": "January 6 Capitol Attack",
+      "description": "A mob of rioters storms the U.S. Capitol in an attempt to disrupt certification of the 2020 presidential election.",
+      "mediaLabel": "Photograph of the U.S. Capitol, January 6, 2021 (Library of Congress)",
+      "sources": [
+        {
+          "label": "Library of Congress, U.S. History Primary Source Timeline",
+          "url": "https://loc.gov/classroom-materials/united-states-history-primary-source-timeline"
+        },
+        {
+          "label": "Encyclopaedia Britannica, United States History Portal",
+          "url": "https://britannica.com/browse/United-States-History"
+        }
+      ]
+    }
+  ],
+  "alternative": [
+    {
+      "year": 1770,
+      "yearLabel": "1770s",
+      "title": "Boston's Liberty Tree",
+      "description": "A large elm tree in Boston became a rallying point for the Sons of Liberty and colonial protests against British rule before the British cut it down for firewood in 1775.",
+      "mediaLabel": "Illustration of the Liberty Tree, Boston",
+      "sources": [
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1784,
+      "yearLabel": "1784",
+      "title": "Ben Franklin's Turkey Musings",
+      "description": "Franklin never formally proposed the turkey as the national symbol, but in a private letter he playfully praised the turkey's character over the bald eagle's — a myth that persists today.",
+      "mediaLabel": "Portrait of Benjamin Franklin; illustration of a wild turkey",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        }
+      ]
+    },
+    {
+      "year": 1789,
+      "yearLabel": "1789",
+      "title": "George Washington's Dentures",
+      "description": "Contrary to the popular myth, Washington's famous false teeth were not made of wood — they were crafted from ivory, gold, lead, and human and animal teeth.",
+      "mediaLabel": "Photograph of Washington's dentures, Mount Vernon collection",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1790,
+      "yearLabel": "1790s",
+      "title": "The Whiskey Rebellion's Odd Standoff",
+      "description": "Pennsylvania farmers protesting a federal whiskey tax were met by an army personally led by President Washington — the only time a sitting U.S. president has commanded troops in the field.",
+      "mediaLabel": "Painting of the Whiskey Rebellion militia",
+      "sources": [
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1804,
+      "yearLabel": "1804–1806",
+      "title": "Lewis and Clark's Dog Seaman",
+      "description": "A Newfoundland dog named Seaman accompanied the Lewis and Clark Expedition the entire way to the Pacific and back, once fighting off a charging buffalo.",
+      "mediaLabel": "Statue of Seaman the dog, Lewis and Clark memorial",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1814,
+      "yearLabel": "1814",
+      "title": "'The Star-Spangled Banner' Written on Scrap Paper",
+      "description": "Francis Scott Key reportedly jotted the poem that became the national anthem on the back of a letter while watching the bombardment of Fort McHenry from a ship.",
+      "mediaLabel": "Manuscript image of the original Star-Spangled Banner poem",
+      "sources": [
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        }
+      ]
+    },
+    {
+      "year": 1814,
+      "yearLabel": "1814",
+      "title": "White House Painted White After Being Burned",
+      "description": "After British troops burned the President's House in 1814, the scorched sandstone walls were painted white during reconstruction — reinforcing (though not the origin of) its nickname.",
+      "mediaLabel": "Photograph of the White House",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1836,
+      "yearLabel": "1836–1837",
+      "title": "Great New England Vampire Panic",
+      "description": "19th-century New Englanders, believing tuberculosis was caused by the dead draining the living, exhumed bodies (most famously Mercy Brown in Rhode Island, 1892) and burned their hearts.",
+      "mediaLabel": "Photograph of a 19th-century New England cemetery",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        },
+        {
+          "label": "New England Historical Society",
+          "url": "https://newenglandhistoricalsociety.com"
+        }
+      ]
+    },
+    {
+      "year": 1841,
+      "yearLabel": "1841",
+      "title": "Shortest Presidency in History",
+      "description": "President William Henry Harrison gave the longest inaugural address in history in freezing weather without a coat, caught pneumonia, and died just 31 days into his term.",
+      "mediaLabel": "Portrait of William Henry Harrison",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1842,
+      "yearLabel": "1842",
+      "title": "P.T. Barnum's Feejee Mermaid",
+      "description": "Showman P.T. Barnum exhibited a 'mermaid' that was actually the torso of a monkey sewn to the tail of a fish, one of the era's most famous hoaxes.",
+      "mediaLabel": "Illustration of the Feejee Mermaid exhibit",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1848,
+      "yearLabel": "1848–1849",
+      "title": "California Gold Rush Egg Prices",
+      "description": "During the Gold Rush, eggs were so scarce in mining camps that a single egg could sell for the equivalent of several dollars — a small fortune at the time.",
+      "mediaLabel": "Photograph of California Gold Rush mining camp",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1859,
+      "yearLabel": "1859",
+      "title": "The 'Great Kentucky Meat Shower'",
+      "description": "Chunks of meat reportedly fell from a clear sky over Bath County, Kentucky; the most popular scientific explanation is that vultures overhead vomited a shared meal.",
+      "mediaLabel": "Newspaper clipping illustration of the Kentucky Meat Shower",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1861,
+      "yearLabel": "1861–1865",
+      "title": "The Free State of Jones",
+      "description": "During the Civil War, a band of Confederate deserters and enslaved people in Jones County, Mississippi, banded together and declared their own breakaway 'free state.'",
+      "mediaLabel": "Map of Jones County, Mississippi",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1865,
+      "yearLabel": "1865–1900s",
+      "title": "The Legend of Lincoln's Ghost",
+      "description": "Reports of Abraham Lincoln's ghost haunting the White House date back over a century; First Lady Grace Coolidge and visitor Winston Churchill both reportedly claimed encounters.",
+      "mediaLabel": "Photograph/portrait of Abraham Lincoln",
+      "sources": [
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1867,
+      "yearLabel": "1867",
+      "title": "'Seward's Folly' — the Alaska Purchase",
+      "description": "Secretary of State William Seward's $7.2 million purchase of Alaska from Russia (about 2 cents an acre) was widely mocked in the press as 'Seward's Icebox' until gold and oil later proved its worth.",
+      "mediaLabel": "Political cartoon mocking the Alaska Purchase",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1869,
+      "yearLabel": "1869",
+      "title": "The Cardiff Giant Hoax",
+      "description": "A 10-foot 'petrified man' unearthed in Cardiff, New York, drew huge crowds before being exposed as an elaborate hoax carved from gypsum.",
+      "mediaLabel": "Photograph of the Cardiff Giant on display, Farmers' Museum",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1871,
+      "yearLabel": "1871",
+      "title": "The Great Chicago Fire and Mrs. O'Leary's Cow",
+      "description": "Legend blames a cow kicking over a lantern in Mrs. O'Leary's barn for starting the fire that destroyed much of Chicago — a colorful story historians consider almost certainly untrue.",
+      "mediaLabel": "Illustration of the Great Chicago Fire",
+      "sources": [
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        }
+      ]
+    },
+    {
+      "year": 1872,
+      "yearLabel": "1872",
+      "title": "The Great Diamond Hoax of 1872",
+      "description": "Two prospectors salted a Colorado/Wyoming claim with real diamonds and gems, duping wealthy investors including Tiffany & Co. before the scheme was exposed.",
+      "mediaLabel": "Illustration of the 1872 Colorado diamond fields",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        }
+      ]
+    },
+    {
+      "year": 1873,
+      "yearLabel": "1873",
+      "title": "Levi's Riveted Blue Jeans Patented",
+      "description": "Levi Strauss and tailor Jacob Davis patented the process of using copper rivets to reinforce denim work pants, creating the modern blue jean.",
+      "mediaLabel": "Photograph of early Levi's riveted jeans",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1874,
+      "yearLabel": "1874",
+      "title": "Levi's, Denim, and the Rivet That Started a Craze",
+      "description": "The first riveted jeans sold for about $1.46 a pair and were originally marketed strictly as tough workwear for miners, not fashion.",
+      "mediaLabel": "Photograph of a 19th-century Levi's advertisement",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1876,
+      "yearLabel": "1876",
+      "title": "Alexander Graham Bell's First Phone Call",
+      "description": "Bell's first telephone call — 'Mr. Watson, come here, I want to see you' — was reportedly prompted by him spilling acid on himself in the lab.",
+      "mediaLabel": "Photograph of Alexander Graham Bell's early telephone",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1876,
+      "yearLabel": "1876",
+      "title": "Battle of the Little Bighorn's Odd Detail",
+      "description": "General Custer's Army haircut before his final campaign left him with noticeably short hair, contrary to his famous long-haired image in most depictions.",
+      "mediaLabel": "Portrait of George Armstrong Custer",
+      "sources": [
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1876,
+      "yearLabel": "1876",
+      "title": "The Liberty Bell's Famous Crack",
+      "description": "The Liberty Bell's large crack, often assumed to be from a single dramatic moment, actually grew from repeated repairs and use until it was retired from ringing around 1846.",
+      "mediaLabel": "Photograph of the cracked Liberty Bell, Philadelphia",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1881,
+      "yearLabel": "1881",
+      "title": "Wisconsin's Claim to the Ice Cream Sundae",
+      "description": "Two Rivers, Wisconsin, claims to be the birthplace of the ice cream sundae, invented when a soda fountain owner poured chocolate syrup — normally reserved for sodas — over ice cream.",
+      "mediaLabel": "Photograph of a vintage ice cream sundae",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1883,
+      "yearLabel": "1883",
+      "title": "Fortune Cookies Are an American Invention",
+      "description": "Despite association with Chinese cuisine, the fortune cookie was popularized in early 20th-century California, likely by Japanese or Chinese immigrant bakers, not in China.",
+      "mediaLabel": "Photograph of fortune cookies",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1884,
+      "yearLabel": "1884",
+      "title": "Peanut Butter Patented",
+      "description": "Canadian-American Marcellus Gilmore Edson patented a peanut paste process in 1884, an early step toward the peanut butter Americans love today.",
+      "mediaLabel": "Photograph of a jar of peanut butter",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1886,
+      "yearLabel": "1886",
+      "title": "Coca-Cola's Original Recipe",
+      "description": "Coca-Cola was originally marketed as a medicinal tonic and contained trace amounts of cocaine from coca leaf extract until the ingredient was removed around 1903.",
+      "mediaLabel": "Vintage Coca-Cola advertisement image",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1887,
+      "yearLabel": "1887",
+      "title": "Groundhog Day Tradition Begins",
+      "description": "Punxsutawney, Pennsylvania, held its first official Groundhog Day celebration in 1887, turning a Pennsylvania Dutch folk tradition into a national media event.",
+      "mediaLabel": "Photograph of Punxsutawney Phil, Groundhog Day",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1889,
+      "yearLabel": "1889",
+      "title": "Oklahoma Land Rush",
+      "description": "At noon on April 22, 1889, tens of thousands of settlers raced on horseback and wagon to claim land in the Oklahoma Territory the moment it opened.",
+      "mediaLabel": "Photograph of the 1889 Oklahoma Land Rush",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1892,
+      "yearLabel": "1892",
+      "title": "Ellis Island's First Immigrant",
+      "description": "Annie Moore, a 17-year-old from Ireland, was the first immigrant processed through Ellis Island and received a $10 gold coin to mark the occasion.",
+      "mediaLabel": "Statue of Annie Moore, Ellis Island",
+      "sources": [
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1893,
+      "yearLabel": "1893",
+      "title": "The First Ferris Wheel",
+      "description": "Engineer George Ferris built the original Ferris Wheel for the 1893 Chicago World's Fair to rival the Eiffel Tower — it stood 264 feet tall and carried over 2,000 riders at once.",
+      "mediaLabel": "Photograph of the original 1893 Ferris Wheel",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1901,
+      "yearLabel": "1901",
+      "title": "Annie Edson Taylor's Barrel Ride Over Niagara Falls",
+      "description": "On her 63rd birthday, schoolteacher Annie Edson Taylor became the first person to survive going over Niagara Falls in a barrel, hoping to earn fame and fortune.",
+      "mediaLabel": "Photograph of Annie Edson Taylor with her barrel",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        }
+      ]
+    },
+    {
+      "year": 1902,
+      "yearLabel": "1902",
+      "title": "The Teddy Bear's Origin",
+      "description": "President Theodore Roosevelt's refusal to shoot a captured bear cub on a hunting trip inspired a toy maker to create the 'Teddy's bear,' the origin of the modern teddy bear.",
+      "mediaLabel": "Political cartoon of Theodore Roosevelt and the bear cub, 1902",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1903,
+      "yearLabel": "1903",
+      "title": "The Wright Brothers' Coin Toss",
+      "description": "Wilbur Wright won a coin toss for the first flight attempt but stalled the plane; days later Orville succeeded, making him officially the first in powered flight.",
+      "mediaLabel": "Photograph of the Wright Flyer, 1903",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        },
+        {
+          "label": "Smithsonian National Air and Space Museum",
+          "url": "https://airandspace.si.edu"
+        }
+      ]
+    },
+    {
+      "year": 1904,
+      "yearLabel": "1904",
+      "title": "Foods Debuted at the St. Louis World's Fair",
+      "description": "The 1904 World's Fair in St. Louis is often credited with popularizing the ice cream cone, iced tea, and the hamburger bun to a national audience.",
+      "mediaLabel": "Photograph of the 1904 St. Louis World's Fair midway",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1904,
+      "yearLabel": "1904",
+      "title": "The World's First Boardwalk (Disputed)",
+      "description": "Several New Jersey shore towns, including Atlantic City (1870) and Cape May, claim to have built the first American boardwalk to keep sand out of hotel lobbies and railcars.",
+      "mediaLabel": "Photograph of the Atlantic City Boardwalk",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1904,
+      "yearLabel": "1904",
+      "title": "First U.S. Speeding Ticket",
+      "description": "One of the earliest recorded speeding arrests in the U.S. occurred in Dayton, Ohio, in 1904, when a driver was ticketed for going 12 mph in an 8 mph zone.",
+      "mediaLabel": "Photograph of an early automobile, early 1900s",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1905,
+      "yearLabel": "1905",
+      "title": "The Popsicle's Accidental Invention",
+      "description": "Eleven-year-old Frank Epperson accidentally invented the popsicle in 1905 after leaving a soda-and-stick mixture outside overnight in freezing temperatures; he patented it in 1923.",
+      "mediaLabel": "Photograph of vintage Popsicle advertisement",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1908,
+      "yearLabel": "1908",
+      "title": "Ford's Model T and the Assembly Line",
+      "description": "Henry Ford's Model T and moving assembly line made car ownership affordable for average Americans, transforming manufacturing and daily life.",
+      "mediaLabel": "Photograph of the Ford Model T assembly line",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1912,
+      "yearLabel": "1912",
+      "title": "New Mexico and Arizona's Late Statehood",
+      "description": "New Mexico and Arizona were the last of the contiguous 48 states admitted to the Union, joining in January and February 1912 respectively.",
+      "mediaLabel": "Map of the continental U.S., 1912",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1913,
+      "yearLabel": "1913",
+      "title": "The Pentagon's Extra Restrooms Myth",
+      "description": "A popular story claims the Pentagon (built 1941–43) has twice as many restrooms as needed because segregation-era plans required separate facilities for Black and white workers; historians note Virginia's segregation laws did shape the original design before it was desegregated during construction.",
+      "mediaLabel": "Aerial photograph of the Pentagon",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1914,
+      "yearLabel": "1914",
+      "title": "First Electric Traffic Light",
+      "description": "Cleveland, Ohio, installed the first electric traffic signal in the U.S. at the corner of East 105th Street and Euclid Avenue.",
+      "mediaLabel": "Photograph of an early electric traffic signal",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1916,
+      "yearLabel": "1916",
+      "title": "Nathan's Famous Hot Dog Eating Contest Begins",
+      "description": "Legend holds that Coney Island's Nathan's Famous hot dog eating contest began in 1916 as a bet among immigrants over who was the most patriotic.",
+      "mediaLabel": "Photograph of the Nathan's Famous hot dog stand",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1919,
+      "yearLabel": "1919",
+      "title": "The Great Boston Molasses Flood",
+      "description": "A storage tank ruptured in Boston's North End, unleashing a 25-foot wave of molasses that killed 21 people and traveled at an estimated 35 miles per hour.",
+      "mediaLabel": "Photograph of the molasses flood aftermath, Boston North End",
+      "sources": [
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Britannica, Great Molasses Flood",
+          "url": "https://britannica.com/topic/Great-Molasses-Flood"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        },
+        {
+          "label": "Boston.gov, 100 years ago today",
+          "url": "https://boston.gov"
+        }
+      ]
+    },
+    {
+      "year": 1920,
+      "yearLabel": "1920s",
+      "title": "Prohibition-Era Bathtub Gin",
+      "description": "During Prohibition, homemade 'bathtub gin' got its name because bottles were often too tall to fill from a sink tap and were filled under bathtub faucets instead.",
+      "mediaLabel": "Photograph of a Prohibition-era speakeasy",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1920,
+      "yearLabel": "1920s",
+      "title": "Radium Girls Scandal",
+      "description": "Factory workers who painted watch dials with radium-based glow-in-the-dark paint were told to lick their brushes to a point, leading to severe radiation poisoning and landmark labor-safety lawsuits.",
+      "mediaLabel": "Photograph of watch dial painters, 1920s",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1921,
+      "yearLabel": "1921",
+      "title": "White Castle Opens, Birth of Fast Food",
+      "description": "White Castle opened in Wichita, Kansas, and is widely credited as the first fast-food hamburger chain in the United States.",
+      "mediaLabel": "Photograph of an early White Castle restaurant",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1921,
+      "yearLabel": "1921",
+      "title": "First Drive-In Restaurant",
+      "description": "The Pig Stand opened in Texas in 1921, credited as one of the first drive-in restaurants where carhops served food to customers in their vehicles.",
+      "mediaLabel": "Photograph of a vintage Pig Stand drive-in",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1923,
+      "yearLabel": "1923–1926",
+      "title": "Route 66 Designated",
+      "description": "Nicknamed the 'Main Street of America,' U.S. Route 66 was officially commissioned in 1926, stretching from Chicago to Santa Monica.",
+      "mediaLabel": "Vintage Route 66 highway sign photograph",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1927,
+      "yearLabel": "1927",
+      "title": "Kool-Aid Invented in Nebraska",
+      "description": "Edwin Perkins invented Kool-Aid in Hastings, Nebraska, by removing the liquid from his 'Fruit Smack' drink concentrate to save on shipping costs.",
+      "mediaLabel": "Photograph of vintage Kool-Aid packets",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1928,
+      "yearLabel": "1928",
+      "title": "The Bread-Slicing Machine",
+      "description": "Otto Frederick Rohwedder unveiled the first automatic bread-slicing machine in Chillicothe, Missouri, giving rise to the phrase 'the greatest thing since sliced bread.'",
+      "mediaLabel": "Photograph of an early bread-slicing machine",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1930,
+      "yearLabel": "1930s",
+      "title": "The Dust Bowl's 'Black Sunday'",
+      "description": "On April 14, 1935, a massive dust storm turned day into night across the southern Plains, one of the most severe storms of the Dust Bowl era.",
+      "mediaLabel": "Photograph of a Dust Bowl storm approaching, 1935",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1930,
+      "yearLabel": "1930s",
+      "title": "Popcorn Booms During the Great Depression",
+      "description": "Popcorn was one of the few treats affordable during the Great Depression, and movie theaters began selling it in the lobby, permanently linking popcorn with the movies.",
+      "mediaLabel": "Photograph of a vintage popcorn cart",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1935,
+      "yearLabel": "1935",
+      "title": "First Parking Meter Installed",
+      "description": "Oklahoma City installed the world's first parking meter, nicknamed 'Park-O-Meter No. 1,' on July 16, 1935.",
+      "mediaLabel": "Photograph of an early Park-O-Meter parking meter",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1937,
+      "yearLabel": "1937",
+      "title": "Spam Is Introduced",
+      "description": "Hormel Foods introduced Spam in Austin, Minnesota, in 1937; it became a wartime staple and today has its own museum in the town.",
+      "mediaLabel": "Photograph of a vintage Spam can",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1938,
+      "yearLabel": "1938",
+      "title": "War of the Worlds Radio Panic",
+      "description": "Orson Welles' realistic radio dramatization of an alien invasion reportedly caused some listeners to briefly believe Martians were actually attacking New Jersey.",
+      "mediaLabel": "Photograph of Orson Welles at the CBS microphone, 1938",
+      "sources": [
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1938,
+      "yearLabel": "1938",
+      "title": "Teflon's Accidental Discovery",
+      "description": "Chemist Roy Plunkett accidentally discovered the non-stick compound Teflon while researching refrigerants at DuPont's New Jersey lab.",
+      "mediaLabel": "Photograph of a Teflon-coated pan",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1943,
+      "yearLabel": "1943",
+      "title": "Slinky's Accidental Invention",
+      "description": "Naval engineer Richard James accidentally invented the Slinky after a torsion spring fell off a shelf and 'walked' across the floor.",
+      "mediaLabel": "Photograph of a classic Slinky toy",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1943,
+      "yearLabel": "1943",
+      "title": "Silly Putty's Accidental Invention",
+      "description": "Engineer James Wright accidentally created Silly Putty while trying to develop a synthetic rubber substitute for the WWII war effort.",
+      "mediaLabel": "Photograph of Silly Putty in its egg container",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1944,
+      "yearLabel": "1944",
+      "title": "GI Bill Signed",
+      "description": "The Servicemen's Readjustment Act, known as the GI Bill, funded college, job training, and home loans for millions of returning WWII veterans.",
+      "mediaLabel": "Photograph of veterans using GI Bill benefits at college",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1947,
+      "yearLabel": "1947",
+      "title": "The Roswell Incident",
+      "description": "A crashed object recovered near Roswell, New Mexico, sparked decades of UFO folklore after the military initially described it as a 'flying disc' before revising the story to a weather balloon.",
+      "mediaLabel": "Photograph of the Roswell Army Air Field press release",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1947,
+      "yearLabel": "1947",
+      "title": "First Presidential Turkey Reprieve",
+      "description": "President Truman is often credited with the first presidential turkey pardon in 1947, though the modern annual Thanksgiving pardon tradition wasn't formalized until decades later.",
+      "mediaLabel": "Photograph of a presidential turkey pardon ceremony",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1948,
+      "yearLabel": "1948",
+      "title": "In-N-Out and the Drive-Through Era",
+      "description": "In-N-Out Burger, founded in California in 1948, is often credited with pioneering the modern two-way speaker drive-through system.",
+      "mediaLabel": "Photograph of an early In-N-Out Burger stand",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1953,
+      "yearLabel": "1953",
+      "title": "The Curse of the Bambino",
+      "description": "After the Red Sox sold Babe Ruth to the Yankees in 1919, Boston fans blamed an 86-year championship drought (1918–2004) on the so-called 'Curse of the Bambino.'",
+      "mediaLabel": "Photograph of Babe Ruth in a Red Sox uniform",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        }
+      ]
+    },
+    {
+      "year": 1955,
+      "yearLabel": "1955",
+      "title": "Disneyland Opens — and 'Black Sunday'",
+      "description": "Disneyland's chaotic July 1955 opening day was nicknamed 'Black Sunday' after counterfeit tickets, a gas leak, and a heat wave overwhelmed the new park.",
+      "mediaLabel": "Photograph of Disneyland's opening day, 1955",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1955,
+      "yearLabel": "1955",
+      "title": "McDonald's Golden Arches Franchise Boom",
+      "description": "Ray Kroc opened his first McDonald's franchise location in Des Plaines, Illinois, in 1955, launching the fast-food giant's nationwide expansion.",
+      "mediaLabel": "Photograph of an early McDonald's restaurant",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1959,
+      "yearLabel": "1959",
+      "title": "Barbie Doll Debuts",
+      "description": "Mattel introduced the Barbie doll at the American International Toy Fair in New York, named after founder Ruth Handler's daughter, Barbara.",
+      "mediaLabel": "Photograph of the original 1959 Barbie doll",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "yearLabel": "1960s",
+      "title": "New Jersey's Jersey Devil Legend",
+      "description": "Pine Barrens folklore tells of the 'Jersey Devil,' a winged creature said to have been born to the Leeds family in the 18th century — still a beloved regional legend (and NHL team namesake).",
+      "mediaLabel": "Illustration of the legendary Jersey Devil",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "yearLabel": "1962",
+      "title": "The 'Cussing Canary' and Other State Trivia",
+      "description": "Many U.S. states have unusual official symbols, such as Oklahoma's official state meal and New Mexico's official state cookie (the biscochito) — the kind of quirky legal trivia catalogued in 'Weird But True USA.'",
+      "mediaLabel": "Illustration of assorted U.S. state symbols",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        }
+      ]
+    },
+    {
+      "year": 1963,
+      "yearLabel": "1963",
+      "title": "The World's Largest Pistachio... in New Mexico",
+      "description": "New Mexico towns are home to numerous oversized roadside attractions, including a giant pistachio sculpture in Alamogordo — part of a long American tradition of giant roadside novelties.",
+      "mediaLabel": "Photograph of a giant roadside novelty sculpture",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        }
+      ]
+    },
+    {
+      "year": 1969,
+      "yearLabel": "1969",
+      "title": "First ATM Installed",
+      "description": "One of the first automated teller machines in the U.S. was installed by Chemical Bank in Rockville Centre, New York, in 1969.",
+      "mediaLabel": "Photograph of an early ATM machine",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1969,
+      "yearLabel": "1969",
+      "title": "Woodstock's Surprise Scale",
+      "description": "Organizers of the 1969 Woodstock festival expected about 50,000 attendees; roughly 400,000 people showed up, turning it into a free concert when fences came down.",
+      "mediaLabel": "Photograph of the crowd at Woodstock, 1969",
+      "sources": [
+        {
+          "label": "HISTORY.com",
+          "url": "https://history.com"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "yearLabel": "1970s",
+      "title": "Cawker City's Giant Ball of Twine",
+      "description": "Cawker City, Kansas, is home to one of the world's largest balls of twine, an ongoing community project started in 1953 that visitors can still add to today.",
+      "mediaLabel": "Photograph of the world's largest ball of twine, Cawker City, KS",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "yearLabel": "1970s",
+      "title": "Cape May's 'World's Largest' Claims",
+      "description": "Small American towns frequently compete for quirky 'world's largest' titles — from the world's largest ball of twine (Kansas) to the world's largest catsup bottle (Illinois) — a staple of American roadside culture.",
+      "mediaLabel": "Photograph of a 'world's largest' roadside attraction",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        }
+      ]
+    },
+    {
+      "year": 1971,
+      "yearLabel": "1971",
+      "title": "Walt Disney World Opens in Florida",
+      "description": "Disney's second American theme park opened near Orlando in 1971 on land quietly purchased under shell companies to avoid inflating prices before the project was announced.",
+      "mediaLabel": "Photograph of Walt Disney World's opening, 1971",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1978,
+      "yearLabel": "1978",
+      "title": "The Great Molasses Flood's Lingering Legend",
+      "description": "Locals in Boston's North End long claimed that on hot summer days, the neighborhood still smelled faintly of molasses decades after the 1919 flood.",
+      "mediaLabel": "Photograph of Boston's North End neighborhood",
+      "sources": [
+        {
+          "label": "New England Historical Society",
+          "url": "https://newenglandhistoricalsociety.com"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "yearLabel": "1979",
+      "title": "The 'Twinkie Defense'",
+      "description": "During the 1979 trial for the assassination of San Francisco officials, a psychiatric defense citing the defendant's junk-food-heavy diet was nicknamed the 'Twinkie defense' by the press.",
+      "mediaLabel": "Photograph of a Twinkie snack cake",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "yearLabel": "1980s",
+      "title": "The Emu War... Wasn't American",
+      "description": "Often confused with Australia's 1932 'Emu War,' the U.S. has its own share of odd wildlife skirmishes, including officially declared 'nuisance' campaigns against invasive species like nutria and Asian carp.",
+      "mediaLabel": "Photograph of wildlife management efforts",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "yearLabel": "1986",
+      "title": "Cleveland's Balloonfest Disaster",
+      "description": "A charity balloon release of 1.5 million balloons in Cleveland went awry when a storm blew them back over the city, grounding air and boat traffic and hampering a search for missing boaters.",
+      "mediaLabel": "Photograph of Cleveland's 1986 Balloonfest release",
+      "sources": [
+        {
+          "label": "Smithsonian Magazine",
+          "url": "https://smithsonianmag.com"
+        },
+        {
+          "label": "Atlas Obscura",
+          "url": "https://atlasobscura.com"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "yearLabel": "1990s",
+      "title": "Vermont's Real Maple Syrup Rules",
+      "description": "Vermont maintains strict state grading laws for maple syrup, and it's illegal in the state to sell syrup labeled 'Vermont maple syrup' unless it was made entirely within Vermont.",
+      "mediaLabel": "Photograph of Vermont maple syrup production",
+      "sources": [
+        {
+          "label": "National Geographic Kids, 'Weird But True! USA: 300 Fascinating Facts About the 50 States' (book)"
+        },
+        {
+          "label": "Mental Floss",
+          "url": "https://mentalfloss.com"
+        }
+      ]
+    }
+  ]
+}

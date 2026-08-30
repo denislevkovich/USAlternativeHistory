@@ -12,9 +12,6 @@ import type { HistoryEvent, HistoryMode } from '../data/historyEvents'
 const MIN_ZOOM = 1
 const MAX_ZOOM = 8
 const ZOOM_STEP = 1.5
-const START_YEAR = 1776
-const END_YEAR = new Date().getFullYear()
-const YEAR_SPAN = END_YEAR - START_YEAR
 const YEAR_INTERVALS = [1, 2, 5, 10, 20, 25, 50, 100]
 
 type DragState = {
@@ -48,25 +45,28 @@ export function Timeline({ events, mode }: TimelineProps) {
   const drag = useRef<DragState | null>(null)
   const pinch = useRef<PinchState | null>(null)
 
-  const visibleYears = YEAR_SPAN / zoom
+  const startYear = Math.min(...events.map((event) => event.year))
+  const endYear = new Date().getFullYear()
+  const yearSpan = endYear - startYear
+  const visibleYears = yearSpan / zoom
   const yearInterval =
     YEAR_INTERVALS.find((interval) => interval >= visibleYears / 7) ?? 100
   const yearMarkers = useMemo(() => {
-    const firstYear = Math.ceil(START_YEAR / yearInterval) * yearInterval
+    const firstYear = Math.ceil(startYear / yearInterval) * yearInterval
     const years: number[] = []
 
-    for (let year = firstYear; year < END_YEAR; year += yearInterval) {
-      if (year > START_YEAR) years.push(year)
+    for (let year = firstYear; year < endYear; year += yearInterval) {
+      if (year > startYear) years.push(year)
     }
 
     return years
-  }, [yearInterval])
+  }, [endYear, startYear, yearInterval])
   const visibleEvents = useMemo(
     () => events.filter((event) => event.revealAt <= zoom),
     [events, zoom],
   )
   const selectedEvent = events.find((event) => event.id === selectedEventId)
-  const firstEvent = events.find((event) => event.year === START_YEAR)
+  const firstEvent = events.find((event) => event.year === startYear)
 
   const maxViewStart = (nextZoom = zoom) => 1 - 1 / nextZoom
 
@@ -273,10 +273,14 @@ export function Timeline({ events, mode }: TimelineProps) {
               <span>Sources</span>
               <ul>
                 {selectedEvent.sources.map((source) => (
-                  <li key={source.url}>
-                    <a href={source.url} target="_blank" rel="noreferrer">
-                      {source.label}
-                    </a>
+                  <li key={`${source.label}-${source.url ?? 'print'}`}>
+                    {source.url ? (
+                      <a href={source.url} target="_blank" rel="noreferrer">
+                        {source.label}
+                      </a>
+                    ) : (
+                      <span>{source.label}</span>
+                    )}
                   </li>
                 ))}
               </ul>
@@ -305,7 +309,7 @@ export function Timeline({ events, mode }: TimelineProps) {
             {yearMarkers.map((year) => (
               <span
                 key={year}
-                style={{ left: `${((year - START_YEAR) / YEAR_SPAN) * 100}%` }}
+                style={{ left: `${((year - startYear) / yearSpan) * 100}%` }}
               >
                 {year}
               </span>
@@ -313,27 +317,44 @@ export function Timeline({ events, mode }: TimelineProps) {
           </div>
 
           {visibleEvents
-            .filter((event) => event.year > START_YEAR && event.year < END_YEAR)
-            .map((event, index) => (
-              <button
-                type="button"
-                key={event.id}
-                className={`timeline-event timeline-event-${index % 2 === 0 ? 'above' : 'below'}${selectedEventId === event.id ? ' is-selected' : ''}`}
-                style={{
-                  left: `${((event.year - START_YEAR) / YEAR_SPAN) * 100}%`,
-                }}
-                aria-label={`${event.yearLabel}: ${event.title}`}
-                aria-pressed={selectedEventId === event.id}
-                onPointerDown={(event) => event.stopPropagation()}
-                onClick={() => setSelectedEventId(event.id)}
-              >
-                <span className="event-dot" />
-                <span className="event-dot-label">
-                  <strong>{event.yearLabel}</strong>
-                  {event.title}
-                </span>
-              </button>
-            ))}
+            .filter((event) => event.year > startYear && event.year < endYear)
+            .map((event, index, displayedEvents) => {
+              const eventsInYear = displayedEvents.filter(
+                (candidate) => candidate.year === event.year,
+              )
+              const eventIndex = eventsInYear.findIndex(
+                (candidate) => candidate.id === event.id,
+              )
+              const lane =
+                eventsInYear.length > 1
+                  ? eventIndex * 2 - (eventsInYear.length - 1)
+                  : 0
+              const labelPosition = lane < 0 || (lane === 0 && index % 2 === 0)
+                ? 'above'
+                : 'below'
+
+              return (
+                <button
+                  type="button"
+                  key={event.id}
+                  className={`timeline-event timeline-event-${labelPosition}${selectedEventId === event.id ? ' is-selected' : ''}`}
+                  style={{
+                    left: `${((event.year - startYear) / yearSpan) * 100}%`,
+                    top: `calc(50% + ${lane * 0.7}rem)`,
+                  }}
+                  aria-label={`${event.yearLabel}: ${event.title}`}
+                  aria-pressed={selectedEventId === event.id}
+                  onPointerDown={(pointerEvent) => pointerEvent.stopPropagation()}
+                  onClick={() => setSelectedEventId(event.id)}
+                >
+                  <span className="event-dot" />
+                  <span className="event-dot-label">
+                    <strong>{event.yearLabel}</strong>
+                    {event.title}
+                  </span>
+                </button>
+              )
+            })}
 
           <button
             type="button"
@@ -349,12 +370,12 @@ export function Timeline({ events, mode }: TimelineProps) {
           >
             <span className="point-dot" />
             <span className="point-label">First documented event</span>
-            <span className="point-year">{START_YEAR}</span>
+            <span className="point-year">{startYear}</span>
           </button>
           <div className="timeline-point timeline-point-end">
             <span className="point-dot" />
             <span className="point-label">Now</span>
-            <span className="point-year">{END_YEAR}</span>
+            <span className="point-year">{endYear}</span>
           </div>
         </div>
       </div>
